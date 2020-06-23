@@ -1,1 +1,7 @@
-文件名以NO为前缀的均为开发时候做的试探性工作，后期发现鸡肋，其他文件均按照功能或实现算法命名。
+文件名以NO为前缀的均为开发时候做的试探性工作，后期发现鸡肋，其他文件均按照功能或实现算法命名。 
+CHECK_Package检测刚开始的配置问题。
+GP_Data_Enhancement对图像信息进行数据增强，保证足量的图像数据。
+GP_FeatureS_Draw_AND_PCA提取特征并训练SVM分类器，PCA部分未实现。
+GP_PreProcessing图像预处理。
+GP_SVM_CLASSIFY训练好的SVM分类器进行分类。
+GP_WEB_InterFace用pyQT库搭建系统界面。
